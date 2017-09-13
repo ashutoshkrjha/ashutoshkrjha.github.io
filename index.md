@@ -14,7 +14,7 @@
 <table width="100%" align="center" border="0" cellspacing="0">
     <tr>
       <td width="30%">
-      <img src='/images/query.png'>         
+      <img src='/images/mtl_framework.png'>         
       </td>
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6> We propose a meta-learning based active sampling approach to multi-task learning where a meta-learner decides which tasks to train on by learning a cirriculum for training on different tasks in an online fashion.</h6></div>
