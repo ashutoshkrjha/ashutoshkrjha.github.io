@@ -3,34 +3,23 @@
 
 </head>
 # About Me
-<div style = "text-align: justify"> I am currently pursuing my Ph.D. under Dr. Mitesh M. Khapra and co-guided by Dr. Balaraman Ravindran at IIT Madras. I joined IIT Madras as an M.Tech in July 2015, and then converted to Ph.D. programme in March 2017. My area of research is Deep learning for NLP. Currently my work is focussed on modelling better attention mechanism techniques for different Natural Language Generation tasks.
+<div style = "text-align: justify"> I am currently a senior B.Tech Undergrad under <a href="http://www.cse.iitm.ac.in/~ravi/">Dr. Balaraman Ravindran</a> and co-guided by <a href="https://mech.iitm.ac.in/meiitm/personnal/dr-balaji-srinivasan/">Dr. Balaji Srinivasan</a> at IIT Madras. My current work lies broadly in the field of Deep Reinforcement Learning. I'm also passionate about Quantitative Finance and the applications of Artificial Intelligence in Finance.  
 </div>
 
-# Awards
-Google India Ph.D. Fellowship, 2017
-
-# Publications:
+# Pre-Prints:
 <ul>
-<li> <a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a><font color="grey"><h5><i><b> Association of Computational Linguistics (ACL), 2017</b></i></h5></font>
-   <font color="black"><h5> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h5></font>
+<li> <a href="https://arxiv.org/abs/1702.06053"><h3>Learning to Multitask by Active Sampling</h3></a><font color="grey">
+   <font color="black"><h5> Sahil Sharma, Ashutosh Jha, Parikshit Hegde, Balaraman Ravindran </h5></font>
 <table width="100%" align="center" border="0" cellspacing="0">
     <tr>
       <td width="30%">
       <img src='/images/query.png'>         
       </td>
       <td valign="top" width="70%"> 
-        <div style = "text-align: justify"> <h6> Abstractive summarization aims to generate a shorter version of the document covering all the salient points in a compact and coherent fashion. On the other hand, query-based summarization highlights those points that are relevant in the context of a given query. The encode-attend-decode paradigm has achieved notable success in machine translation, extractive summarization, dialog systems, etc. But it suffers from the drawback of generation of repeated phrases. In this work we propose a model for the query-based summarization task based on the encode-attend-decode paradigm with two key additions (i) a query attention model (in addition to document attention model) which learns to focus on different portions of the query at different time steps (instead of using a static representation for the query) and (ii) a new diversity based attention model which aims to alleviate the problem of repeating phrases in the summary. In order to enable the testing of this model we introduce a new query-based summarization dataset building on debatepedia. Our experiments show that with these two additions the proposed model clearly outperforms vanilla encode-attend-decode models with a gain of 28\% (absolute) in ROUGE-L scores.</h6></div>
-        <ul>
-        <li><a href="https://github.com/PrekshaNema25/diversity_based_attention"> [Data + Code] </a></li>
-        </ul></td></tr>
+        <div style = "text-align: justify"> <h6> We propose a meta-learning based active sampling approach to multi-task learning where a meta-learner decides which tasks to train on by learning a cirriculum for training on different tasks in an online fashion. </h6></div>
+        </td></tr>
    </table>
    </li></ul>
-   
-# Work Experience
-I worked in Nvidia Graphics Pvt. Ltd. from June 2012 - June 2015 as a System Software Engineer in Resource Manager- Professional Soultions Group team.
-
-# Academic Details
-I have completed my B.Tech from Visvesvaraya National Institute of Technology, Nagpur in Computer Science and Engineering in 2012.
 
 # Contact:
 
