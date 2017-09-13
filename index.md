@@ -7,8 +7,9 @@
 </div>
 
 # Pre-Prints:
+
 <ul>
-<li> <a href="https://arxiv.org/abs/1702.06053"><h3>Learning to Multitask by Active Sampling</h3></a><font color="grey">
+<li> <a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a>
    <font color="black"><h5> Sahil Sharma, Ashutosh Jha, Parikshit Hegde, Balaraman Ravindran </h5></font>
 <table width="100%" align="center" border="0" cellspacing="0">
     <tr>
@@ -16,11 +17,13 @@
       <img src='/images/query.png'>         
       </td>
       <td valign="top" width="70%"> 
-        <div style = "text-align: justify"> <h6> We propose a meta-learning based active sampling approach to multi-task learning where a meta-learner decides which tasks to train on by learning a cirriculum for training on different tasks in an online fashion. </h6></div>
-        </td></tr>
+        <div style = "text-align: justify"> <h6> We propose a meta-learning based active sampling approach to multi-task learning where a meta-learner decides which tasks to train on by learning a cirriculum for training on different tasks in an online fashion.</h6></div>
+        <ul>
+        <li><a href="https://github.com/PrekshaNema25/diversity_based_attention"> [Data + Code] </a></li>
+        </ul></td></tr>
    </table>
    </li></ul>
-
+   
 # Contact:
 
 [Resume](pdfs/resume.pdf)
