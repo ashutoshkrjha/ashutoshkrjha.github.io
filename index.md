@@ -24,6 +24,4 @@
    
 # Contact:
 
-[Resume](pdfs/Ashutosh_Kumar_Jha.pdf)
-
 ashutosh1296 [at] gmail[dot] com
